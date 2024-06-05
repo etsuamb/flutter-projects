@@ -9,9 +9,12 @@ encouraging them to take steps towards maintaining or achieving a healthy weight
 
 
 
-![image](https://github.com/etsuamb/Small-flutter-projects/assets/150803173/5bd05b65-7312-4358-8d2b-82dff4ea28d0)   
+![image](https://github.com/etsuamb/Small-flutter-projects/assets/150803173/5bd05b65-7312-4358-8d2b-82dff4ea28d0)  
 
 
+
+
+...........................................................................................................................................................................................................................................................................................
 
 
 
@@ -35,3 +38,37 @@ on various topics and provides immediate feedback by letting users retake the qu
 
 
 
+...........................................................................................................................................................................................................................................................................................
+
+
+
+
+
+
+A weather app prompts users to enter the capital city of a specific country. The app then responds with the current temperature in Celsius
+and displays an emoji that corresponds to the weather conditions. 
+This interactive and visual approach makes it easy for users to get quick and intuitive updates on the weather in different capitals around the world.
+
+
+
+
+
+
+
+
+
+
+
+
+![image](https://github.com/etsuamb/Small-flutter-projects/assets/150803173/bab1671d-7c64-4fc3-97c5-4528ede9c048)
+
+
+
+
+
+...........................................................................................................................................................................................................................................................................................
+
+
+
+
+Dice game
